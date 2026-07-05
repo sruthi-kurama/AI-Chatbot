@@ -277,7 +277,7 @@ https://github.com/sruthi-kurama
 
 This project is licensed for educational and learning purposes.
 
-![alt text](<Screenshot (67)-3.png>)
+![alt text](<Screenshot (67).png>)
 
 ![alt text](<Screenshot (70).png>)
 
