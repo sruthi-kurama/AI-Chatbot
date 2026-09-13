@@ -1,4 +1,4 @@
-# 🤖 AI Chatbot with Live Weather & Forecast
+#  AI Chatbot with Live Weather & Forecast
 
 An intelligent AI-powered chatbot built using **Python, Flask, HTML, CSS, and JavaScript**. The chatbot leverages the **Google Gemini API** to provide natural and intelligent responses while integrating the **OpenWeatherMap API** to deliver real-time weather updates and weather forecasts for cities around the world.
 
@@ -121,7 +121,7 @@ AI-Chatbot/
 
 ---
 
-# 💬 Example Questions
+# Example Questions
 
 ## AI Questions
 
@@ -171,7 +171,7 @@ pip install -r requirements.txt
 
 ---
 
-# 🔑 Environment Variables
+#  Environment Variables
 
 Create a `.env` file in the root directory.
 
@@ -198,7 +198,7 @@ http://127.0.0.1:5000
 
 ---
 
-# 🧠 Skills Demonstrated
+# Skills Demonstrated
 
 - Python Programming
 - Flask Web Development
@@ -233,20 +233,6 @@ The following features can be added in future versions:
 
 ---
 
-# 📸 Project Screenshots
-
-> Add screenshots of your chatbot here after uploading the project.
-
-Example:
-
-- Home Screen
-- AI Conversation
-- Live Weather Result
-- Weather Forecast
-- Sidebar with Chat History
-
----
-
 # 🎓 Learning Outcomes
 
 This project helped strengthen my understanding of:
@@ -260,20 +246,14 @@ This project helped strengthen my understanding of:
 
 ---
 
-# 👩‍💻 Author
-
 **Sruthi Kurama**
 
 BBA Student | Aspiring buiness anlytics enthusiast | AI & Technology Enthusiast
-
-I enjoy building AI-powered applications and continuously learning new technologies related to Artificial Intelligence, Data Analytics, and Web Development.
 
 GitHub:
 https://github.com/sruthi-kurama
 
 ---
-
-# 📄 License
 
 This project is licensed for educational and learning purposes.
 
